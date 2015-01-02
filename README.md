@@ -2,3 +2,7 @@
 
 
 fdsafdas
+
+
+derivada igual a zero
+
